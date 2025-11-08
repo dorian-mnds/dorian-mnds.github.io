@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dorian-mnds.github.io/sitemap.xml
+Sitemap: https://dorian-mnds.github.io/dorian-mnds//sitemap.xml
